@@ -1,0 +1,13 @@
+# UNSODA Database v2.0
+# Code:       3020
+# Texture:    sand
+# Location:   Dmitrov region, Moscow, Russia
+# Theta_sat:  0.449
+# Dry/wet:    dry
+# No. points: 5
+# psi       theta
+  0.1       0.449
+  100       0.291
+  300       0.214
+  500       0.206
+  950       0.195
