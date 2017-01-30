@@ -1,0 +1,34 @@
+#---------------------------------------------------#
+#  .gitignore file for the waterDE project          #
+#                                                   #
+#  Author: Sabino Maggi, CNR-IRSA                   #
+#  Last revision: Jan 2017                          #
+#---------------------------------------------------#
+
+#--- ignore Mac OS X junk
+.DS_Store
+.*DS_Store
+
+#--- ignore backup files
+*~
+
+#--- ignore executables and compilation byproducts
+src/waterDE/binaries
+src/waterDE/waterDE
+*.o
+*.mod
+*.pyc
+
+#--- ignore configuration/output file(s) in src dir
+src/waterDE/*.conf
+src/waterDE/*.dat
+src/waterDE/*.log
+src/waterDE/*.out
+
+#--- ignore all data/support stuff that does not need to be distributed
+data/
+runs/
+support/
+src/multiDE/
+src/multiOPT/
+src/test/
