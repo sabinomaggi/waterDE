@@ -12,7 +12,7 @@ The  `waterDE` application currently implements the Brooks-Corey, van Genuchten 
 
 The official reference for `waterDE` is:
 
-> S. Maggi, _Estimating water retention characteristic parameters using differential evolution_, Computers and Geotechnics, Volume 86, June 2017, Pages 163-172, doi [10.1016/j.compgeo.2016.12.025](http://www.sciencedirect.com/science/article/pii/S0266352X16303329).
+> S. Maggi, _Estimating water retention characteristic parameters using differential evolution_, Computers and Geotechnics, Volume 86, June 2017, Pages 163-172, doi [10.1016/j.compgeo.2016.12.025](https://www.sciencedirect.com/science/article/pii/S0266352X16303329).
 
 Please cite this paper whenever you use `waterDE` for a scientific publication or a presentation.
 
