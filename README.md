@@ -16,6 +16,9 @@ The official reference for `waterDE` is:
 
 Please cite this paper whenever you use `waterDE` for a scientific publication or a presentation.
 
+[![DOI](https://zenodo.org/badge/80416579.svg)](https://zenodo.org/badge/latestdoi/80416579)
+
+
 
 ### Introduction
 
