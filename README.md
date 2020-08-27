@@ -2,7 +2,7 @@
 
 ## Calculation of water retention curves by Differential Evolution
 
-This web site hosts the source code and a few binary packages of `waterDE`, a command line application that calculates the characteristics parameters of water retention models using [Differential Evolution (DE)](http://www1.icsi.berkeley.edu/~storn/code.html).
+This repository hosts the source code and a few binary packages of `waterDE`, a command line application that calculates the characteristics parameters of water retention models using [Differential Evolution (DE)](http://www1.icsi.berkeley.edu/~storn/code.html).
 
 The  `waterDE` application currently implements the Brooks-Corey, van Genuchten and Rossi-Nimmo analytic models. In the next release, a plugin architecture will allow to easily add a wider range of analytic models to the package.
 
